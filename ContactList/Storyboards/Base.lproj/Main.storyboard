@@ -94,8 +94,8 @@
                     </view>
                     <navigationItem key="navigationItem" title="Подробнее" id="HON-8k-It9"/>
                     <connections>
-                        <outlet property="emailLabel" destination="JEe-s0-gtH" id="iTO-zM-pux"/>
-                        <outlet property="phoneLabel" destination="qga-XZ-GC7" id="kNM-5c-pqn"/>
+                        <outlet property="emailLabel" destination="JEe-s0-gtH" id="ED9-4s-egn"/>
+                        <outlet property="phoneLabel" destination="qga-XZ-GC7" id="86T-N9-vBt"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="A1x-aH-WzV" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
